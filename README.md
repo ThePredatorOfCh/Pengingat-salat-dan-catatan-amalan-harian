@@ -15,6 +15,6 @@ Proyek kelompok Rekayasa Perangkat Lunak (RPL 52338), Topik 4.
 | Milestone | Dokumen |
 |---|---|
 | M1 Perencanaan elisitasi | [Rencana elisitasi](m1-rencana-elisitasi.md) |
-| M1 Perencanaan elisitasi (Word) | [Unduh docx](M1_Perencanaan_Elisitasi_Observasi.docx) |
+| M1 Perencanaan elisitasi (Word) | [Unduh docx](M1_Perencanaan_Elisitasi_Observasi_Topik4.docx) |
 | M2 Laporan elisitasi | [Laporan elisitasi](docs/m2-laporan-elisitasi.md) |
 | M4 Log prompt | [Log prompt](docs/log-prompt.md) |
