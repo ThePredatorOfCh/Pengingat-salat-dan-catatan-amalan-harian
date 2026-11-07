@@ -74,22 +74,8 @@ Lampirkan:
 
 - Kuesioner mahasiswa (23 pertanyaan)
 
-- Kuesioner mentor/pembina (10 pertanyaan)
-
 - Lembar observasi (perilaku mahasiswa di sekitar waktu salat dan proses mutaba'ah mentor)
 
 - Pengantar penyebaran kuesioner
 
 - Kalimat persetujuan (sukarela, anonim, izin observasi)
-
-## 6. Pernyataan penggunaan AI (wajib)
-
-Contoh isi: "Kelompok kami menggunakan [nama AI] untuk menyusun kerangka instrumen elisitasi dan merapikan bahasa dokumen M1. Seluruh keputusan lingkup, pemilihan narasumber, dan analisis kelayakan ditinjau dan disesuaikan oleh anggota kelompok. AI tidak digunakan untuk mengarang hasil elisitasi." Sesuaikan dengan penggunaan kalian yang sebenarnya.
-
-## Sebelum dikumpulkan
-
-- Ganti semua **[cek]** dan placeholder dengan hasil riset kalian sendiri, terutama API jadwal salat, aturan izin Android, dan fitur kompetitor.
-
-- Pastikan tidak ada klaim "hasil survei" di M1, karena elisitasi baru dilakukan di M2.
-
-- Unggah ke repo GitHub, lalu kirim tautannya ke e-learning. Tenggat di PDF Kamis 29 Oktober, jadi konfirmasi ke Bu Intan soal keterlambatan.
